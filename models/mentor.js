@@ -1,7 +1,7 @@
 import mongoose from "mongoose";
 const mentorSchema = new mongoose.Schema(
   {
-    mentorrname: {
+    mentorname: {
       type: String,
       required: true,
       unique: true,
@@ -32,4 +32,4 @@ const mentorSchema = new mongoose.Schema(
   { timestamps: true}
 );
 
-export default mongoose.model("User", UserSchema);
+export default mongoose.model("mentor", mentorSchema);
