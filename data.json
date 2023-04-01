@@ -1,0 +1,74 @@
+[
+    {
+      "mentorname": "john ",
+      "contact no": "910000010 ",
+      "rating": 8.8,
+      "courses": [ "Fullstack developer","MERNSTACK developer"],
+      "language": [ "english","tamil" ],
+      "studentenrolled":[],
+      "studentunenrolled":[]
+    },
+    {
+      "mentorname": "jolly ",
+      "contact no": "910000011 ",
+      "rating": 8.1,
+      "courses": [ "Fullstack developer","MERNSTACK developer"],
+      "language": [ "english","tamil" ],
+      "studentenrolled":[],
+      "studentunenrolled":[]
+    },
+    {
+      "mentorname": "jayesh ",
+      "contact no": "915600011 ",
+      "rating": 8.1,
+      "courses": [ "Fullstack developer","MERNSTACK developer"],
+      "language": [ "english","tamil" ],
+      "studentenrolled":[],
+      "studentunenrolled":[]
+    },
+    {
+      "mentorname": "aneesha ",
+      "contact no": "910000345 ",
+      "rating": 7.9,
+      "courses": [ "Fullstack developer","MERNSTACK developer"],
+      "language": [ "english","tamil" ],
+      "studentenrolled":[],
+      "studentunenrolled":[]
+    },
+    {
+       "mentorname": "saurabh ",
+      "contact no": "910000010 ",
+      "rating": 8.1,
+      "courses": [ "Fullstack developer","MERNSTACK developer"],
+      "language": [ "english","tamil" ],
+      "studentenrolled":[],
+      "studentunenrolled":[]
+    },
+    {
+      "mentorname": "pradhan",
+      "contact no": "9100345670 ",
+      "rating": 8.1,
+      "courses": [ "Fullstack developer","MERNSTACK developer"],
+      "language": [ "english","tamil" ],
+      "studentenrolled":[],
+      "studentunenrolled":[]
+    },
+    {
+            "mentorname": "rakesh ",
+            "contact no": "9100009876 ",
+            "rating": 8.1,
+            "courses": [ "Fullstack developer","MERNSTACK developer"],
+            "language": [ "english","tamil" ],
+            "studentenrolled":[],
+            "studentunenrolled":[]
+    },
+    {
+           "mentorname": "smith ",
+            "contact no": "9100678912 ",
+            "rating": 9,
+            "courses": [ "Fullstack developer","MERNSTACK developer"],
+            "language": [ "english","tamil" ],
+            "studentenrolled":[],
+            "studentunenrolled":[]
+    }
+  ]
