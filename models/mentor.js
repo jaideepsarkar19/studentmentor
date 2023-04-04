@@ -12,7 +12,7 @@ const mentorSchema = new mongoose.Schema(
       unique: true,
     },
     courses: {
-      type: String,
+      type: Array,
       required: true,
     },
     studentenrolled: {
