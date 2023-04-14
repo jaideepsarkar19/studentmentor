@@ -26,7 +26,7 @@ const mentorSchema = new mongoose.Schema(
       },
       language: {
         type: Array,
-              },
+        required:true  },
 
   },
   { timestamps: true}

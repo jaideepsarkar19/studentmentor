@@ -15,6 +15,10 @@ const studentSchema = new mongoose.Schema(
         type: Array,
         default:[]
       },
+      previousassignedmentor:{
+        type: Array,
+        default:[]
+      }
      } );
 
 
